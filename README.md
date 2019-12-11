@@ -5,10 +5,10 @@ Heres My Custom Gifs!! {Made in Screen To Gif}
 ![justshapes&beats_gif](JS%26B.gif)
 
 #### Minecraft Scream
-![minescream_gif](Minecraft Scream.gif)
+![minescream_gif](Minecraft_Scream.gif)
 
 #### Roblox Scene
-![BlockScene_gif](Roblox Scene.gif)
+![BlockScene_gif](Roblox_Scene.gif)
 
 #### Shooter
 ![Shooder_gif](Shooter.gif)
